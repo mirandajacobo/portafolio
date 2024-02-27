@@ -1,0 +1,16 @@
+header{
+    width: 100;
+    height: 60;
+    padding: 0px 10px;
+
+    display: flex;
+    align-items: center;
+    justify-self: space-between;
+}
+header h2{
+    font-size: 25px;
+}
+
+.ico_menu{
+    font-size: 25px;
+}
